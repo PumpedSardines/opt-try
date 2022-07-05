@@ -1,0 +1,5 @@
+globalConfig.json
+node_modules
+dist
+
+.local
